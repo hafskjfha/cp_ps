@@ -44,6 +44,6 @@ cp_ps/
 * [Baekjoon Online Judge - jtw7913](https://www.acmicpc.net/user/jtw7913)
 * [Solve.ac - jtw7913](https://solved.ac/profile/jtw7913)
 * [Programmers](https://programmers.co.kr/)
-* [블로그]((https://jtw7977.tistory.com/m/))
+* [블로그](https://jtw7977.tistory.com/m/)
 
 
