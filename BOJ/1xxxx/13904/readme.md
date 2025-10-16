@@ -40,8 +40,8 @@
   * 공간: $O(N+d)$
 
 - pq사용시
-  * 시간 $O(N\log N+N\log d)$
-  * 공감 $O(N+d)$
+  * 시간: $O(N\log N+N\log d)$
+  * 공간: $O(N+d)$
 
 ---
 
