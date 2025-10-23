@@ -22,7 +22,7 @@ cp_ps/
 
 ## 사용 언어 & 환경
 
-* **Python 3.10+**, **Rust**(가끔)
+* **Python 3.10+**, **C++17** , **Rust**(가끔)
 * IDE: VSCode / [온라인 컴파일러](https://www.mycompiler.io/ko/new/python)
 * 테스트: 
 
