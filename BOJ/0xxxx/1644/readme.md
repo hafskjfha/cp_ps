@@ -1,4 +1,4 @@
-# 문제 제목: [164 소수의 연속합](https://www.acmicpc.net/problem/1644)
+# 문제 제목: [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - **플랫폼**: 백준
 - **난이도**: 2/10
 - **풀이 유형**: 수학 / 투포인터
@@ -29,7 +29,8 @@
 ---
 
 ## 3. 코드 정리
-[정답 코드](./answer.py)
+[정답 코드(py)](./answer.py) <br>
+[정답 코드(cpp)](./answer.cpp)
 
 ---
 
