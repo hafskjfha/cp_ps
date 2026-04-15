@@ -1,0 +1,1 @@
+j,s=map(int,input().split());print(j+s)

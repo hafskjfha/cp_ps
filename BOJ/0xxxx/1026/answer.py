@@ -1,0 +1,1 @@
+i=input;i();print(sum(x*y for x,y in zip(sorted(map(int,i().split()),reverse=True),sorted(map(int,i().split())))))
