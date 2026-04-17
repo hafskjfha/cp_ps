@@ -1,0 +1,1 @@
+for n,a,w in map(str.split,[*open(0)][:-1]):print(n,['Junior','Senior'][int(a)>17or int(w)>=80])

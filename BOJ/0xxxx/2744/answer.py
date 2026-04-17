@@ -1,0 +1,1 @@
+print("".join([chr(97+ord(i)-65) if ord(i)<91 else chr(65+ord(i)-97) for i in input()]))
