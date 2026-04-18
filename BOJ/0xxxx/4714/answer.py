@@ -1,0 +1,1 @@
+for x in map(float,[*open(0)][:-1]):print(f'Objects weighing {x:.2f} on Earth will weigh {x*0.167:.2f} on the moon.')

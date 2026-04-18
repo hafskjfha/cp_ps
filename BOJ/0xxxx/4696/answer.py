@@ -1,0 +1,1 @@
+for x in map(float,[*open(0)][:-1]):print(f'{x**4+x**3+x**2+x+1:.2f}')

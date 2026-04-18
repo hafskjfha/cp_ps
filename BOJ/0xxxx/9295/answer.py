@@ -1,0 +1,1 @@
+for t in range(int(input())):print(f'Case {t+1}: {sum(map(int,input().split()))}')

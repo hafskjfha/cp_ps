@@ -1,0 +1,1 @@
+print('gnoo'[input().count('a')<input().count('a')::2])

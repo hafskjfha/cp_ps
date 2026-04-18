@@ -20,7 +20,7 @@ else
     mkdir -p "$DIR_PATH"
     
     # 빈 파일(content.md, answer.py) 생성
-    touch "$DIR_PATH/content.md"
+    # touch "$DIR_PATH/content.md"
     touch "$DIR_PATH/answer.py"
     
     echo "생성 완료: $DIR_PATH"

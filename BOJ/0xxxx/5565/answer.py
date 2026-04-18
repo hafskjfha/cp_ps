@@ -1,0 +1,1 @@
+print(int(input())-sum([int(input()) for _ in "_"*9]))
