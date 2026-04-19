@@ -1,0 +1,1 @@
+print(sum(max(int(x),40)for x in open(0))//5)
