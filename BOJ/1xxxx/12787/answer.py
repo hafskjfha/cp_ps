@@ -1,0 +1,1 @@
+for n,m in map(str.split,[*open(0)][1:]):print(int(''.join(f"{int(i):08b}"for i in m.split('.')),2)if n<'2'else'.'.join(map(str,int(m).to_bytes(8,'big'))))

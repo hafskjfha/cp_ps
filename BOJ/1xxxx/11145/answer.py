@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(int(i)if i.strip().isnumeric()else'invalid input')

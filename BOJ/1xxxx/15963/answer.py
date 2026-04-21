@@ -1,0 +1,1 @@
+print(1 if len(set(input().split()))==1 else 0)

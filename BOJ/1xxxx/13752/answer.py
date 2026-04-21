@@ -1,0 +1,1 @@
+for x in map(int,[*open(0)][1:]):print('='*x)

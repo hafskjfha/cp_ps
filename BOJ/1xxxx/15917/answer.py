@@ -1,0 +1,1 @@
+print(*[+(i&-i==i) for i in map(int,[*open(0)][1:])])

@@ -1,0 +1,1 @@
+for s in open(0).read().split('\n')[:-2]:print(s[::-1])
