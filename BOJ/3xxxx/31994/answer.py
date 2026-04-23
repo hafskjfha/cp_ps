@@ -1,0 +1,1 @@
+print(sorted(map(str.split,open(0)),key=lambda x:-int(x[1]))[0][0])

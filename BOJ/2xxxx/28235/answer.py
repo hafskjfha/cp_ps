@@ -1,0 +1,1 @@
+print('HIGHSCHOOL MASTER 0611 CONTEST'.split()['SC2A'.index(input()[0])])

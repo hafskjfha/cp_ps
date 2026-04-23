@@ -8,4 +8,5 @@
 - .rs : Rust로 풀이한 문제입니다.
 - .c : C로 풀이한 문제입니다.
 - .gs: golfscript로 풀이한 문제입니다.
+- .bf: brainfuck으로 풀이한 문제입니다.
 - .txt: txt로 풀이한 문제입니다.

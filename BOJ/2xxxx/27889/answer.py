@@ -1,0 +1,1 @@
+print(["North London Collegiate School","Branksome Hall Asia","Korea International School","St. Johnsbury Academy"]["NBKS".index(input()[0])])

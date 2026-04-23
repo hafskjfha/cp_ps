@@ -1,0 +1,1 @@
+print('\n'.join([f"{a.strip()} {a.strip()}" for a in [*open(0)][1:]]))

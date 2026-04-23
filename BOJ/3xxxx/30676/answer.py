@@ -1,0 +1,8 @@
+r=int(input())
+if 620<=r<=780:print('Red')
+if 590<=r<620:print('Orange')
+if 570<=r<590:print('Yellow')
+if 495<=r<570:print('Green')
+if 450<=r<495:print('Blue')
+if 425<=r<450:print('Indigo')
+if 380<=r<425:print('Violet')

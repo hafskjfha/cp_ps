@@ -1,0 +1,1 @@
+print("01"[len(set(input()))==1])

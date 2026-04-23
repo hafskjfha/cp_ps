@@ -1,0 +1,1 @@
+print('MatKor WiCys CyKor AlKor $clear'.split()['MWCA$'.index(input())])

@@ -1,0 +1,1 @@
+print(*[f"Case {i+1}: Sorting... done!" for i in range(len([*open(0)])-1)])

@@ -1,0 +1,1 @@
+print('SHaadp p y'[int(input())>2*sum(a%2for a in map(int,input().split()))::2])

@@ -1,0 +1,1 @@
+print(sum([s.count('O')>s.count('X')for s in [*open(0)][1:]]))

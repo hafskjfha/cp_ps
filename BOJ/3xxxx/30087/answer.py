@@ -1,0 +1,1 @@
+print("\n".join(['204 207 302 B101 303 501 105'.split()['Al Da Ar Cy Ne St Te'.split().index(input()[:2])]for _ in range(int(input()))]))

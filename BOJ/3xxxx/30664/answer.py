@@ -1,0 +1,1 @@
+print('\n'.join(['TENTE NOVAMENTE'if n%42 else 'PREMIADO'for n in map(int,[*open(0)][:-1])]))
