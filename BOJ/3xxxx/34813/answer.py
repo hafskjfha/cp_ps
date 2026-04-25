@@ -1,0 +1,1 @@
+print(['Foundation','Claves','Veritas','Exploration']['FCVE'.index(input()[0])])

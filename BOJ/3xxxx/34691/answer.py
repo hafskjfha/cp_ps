@@ -1,0 +1,1 @@
+print(*[["Panthera tigris","Forsythia koreana","Pinus densiflora"]["aft".index(i[0])]for i in [*open(0)][:-1]])
