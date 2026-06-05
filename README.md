@@ -16,6 +16,8 @@ cp_ps/
  ├── Atcoder/   # Atcoder 버츄얼 / 업솔빙
  ├── BOJ/       # 백준 문제 풀이
  ├── Codeforces/ # Codeforces 문제 풀이
+ ├── Contest/ # 오프라인 대회
+ ├── DOJ/ # DOJ 문제 풀이
  ├── Programmers/ # 프로그래머스 문제 풀이
  ├── templates/ # 자주 쓰는 템플릿 코드
  └── README.md
