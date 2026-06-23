@@ -15,7 +15,7 @@
 cp_ps/
  ├── Atcoder/   # Atcoder 버츄얼 / 업솔빙
  ├── BOJ/       # 백준 문제 풀이
- ├── Codeforces/ # Codeforces 문제 풀이
+ ├── Codeforces/ # Codeforces 문제 풀이 (현재 없음)
  ├── Contest/ # 오프라인 대회
  ├── DOJ/ # DOJ 문제 풀이
  ├── Programmers/ # 프로그래머스 문제 풀이
@@ -27,7 +27,7 @@ cp_ps/
 
 * **Python 3.10+**, **C++17** , **Rust**(가끔)
 * IDE: VSCode / [온라인 컴파일러](https://www.mycompiler.io/ko/new/python)
-* 테스트: 
+* 테스트: CPH (VSCode extension)
 
 ## 문제 풀이 방식
 
@@ -39,7 +39,6 @@ cp_ps/
 
 ## 진행 상황
 * [배워야 하는 것](https://github.com/hafskjfha/cp_ps/issues/5)
-* [dp 도전기](https://github.com/hafskjfha/cp_ps/issues/6)
 
 
 ## 참고
