@@ -40,6 +40,9 @@ cp_ps/
 ## 진행 상황
 * [배워야 하는 것](https://github.com/hafskjfha/cp_ps/issues/5)
 
+## 로컬 코드 백업 repo
+https://github.com/hafskjfha/cp_ps2
+
 
 ## 참고
 
